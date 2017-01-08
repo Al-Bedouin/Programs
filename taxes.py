@@ -1,5 +1,5 @@
 #################################################
-## Name of Program: Tax Calculator
+## Name of Program:     Tax Calculator
 ## Description:		This program asks the user to enter a cost and a state/country tax and the output is the total cost including the tax. 
 ## Authour(s):		Al Bedouin (Render)
 #################################################
@@ -18,8 +18,6 @@ def CheckIfNumber(number):
 	except ValueError: # If the character was NOT an integer throw an error.
    		print("Error: Invalid Input! Input must be a number!")
    		quit()
-
-## Declare Variables and recieve input for the two main variables. ##
 
 # This is the cost BEFORE the tax
 cost = input("Enter the cost before tax: ")
