@@ -34,7 +34,7 @@ NewLine()
 # Calculate the Total
 total = float(float(cost) * float(tax))
 
-# Convert the total to a string and insert a dollar sign in front of the total.
+# Convert the total to a string and insert a euro sign in front of the total.
 print("€" + str(total))
 
 # 
