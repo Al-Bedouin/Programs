@@ -1,7 +1,7 @@
 #################################################
 ## Name of Program: AutoClicker
 ## Description:		It simply auto clicks nuff said :P 
-## Authour(s):		Al Bedouin (Render)
+## Authour(s):		Interwebs
 #################################################
 
 # Import anything we need
